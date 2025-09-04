@@ -6,4 +6,5 @@
 🌱 Exploring **full-stack development & applied machine learning**
 🌐 I enjoy **contributing to open-source** and building projects that solve real-world problems
 
-📣 Reach me at [sanjayrajns07@gmail.com](mailto:sanjayrajns07@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sanjay-raj-n-s)
+
+
