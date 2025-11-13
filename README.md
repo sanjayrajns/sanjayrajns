@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sanjay Raj  
 
-🚀 **Backend Developer | Cloud Engineer | Frontend Enthusiast**  
+🚀 **Backend | Cloud | Frontend **  
 
 I'm passionate about building **scalable, secure, and efficient systems** that power modern web and mobile applications.  
 With experience across **Node.js, Express, Django, and Flask**, I focus on designing APIs, managing cloud infrastructure, and integrating seamless frontend experiences.  
