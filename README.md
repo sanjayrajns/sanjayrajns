@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Backend development with Java, Spring Boot, and Cloud.<br><br>
-🤝 I’m looking to collaborate on<br><br>Scalable backend and cloud-native systems.<br><br>
-🧠 I’m looking for help with<br><br>Cloud caching using Redis and performance tuning.<br><br>
-🌱 I’m currently learning<br><br>Spring, microservices, and service communication.<br><br>
-💬 Ask me about<br><br>Backend development and cloud infrastructure.<br><br>
-⚡ Fun fact<br><br>I refactor code even when it's already perfectly working 😄
+🔭 I’m currently working on Backend development<br>
+🤝 I’m looking to collaborate on Scalable backend and cloud-native systems.<br>
+🧠 I’m looking for help with Cloud caching using Redis and performance tuning.<br>
+🌱 I’m currently learning Spring, microservices, and service communication.<br>
+💬 Ask me about Backend development and cloud infrastructure.<br>
+⚡ Fun fact I refactor code even when it's already perfectly working 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sanjay-raj-ns07) 
